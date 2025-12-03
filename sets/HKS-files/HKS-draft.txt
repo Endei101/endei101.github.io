@@ -1,0 +1,3688 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Massive Mossgrub",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Mutant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/0.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/1.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/2.png"
+			}
+		},
+		{
+			"name": "Moss Mother",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/3.png"
+			}
+		},
+		{
+			"name": "Aknid",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Creature — Insect",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/4.png"
+			}
+		},
+		{
+			"name": "Skull Scuttler",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/5.png"
+			}
+		},
+		{
+			"name": "Skullwing",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/6.png"
+			}
+		},
+		{
+			"name": "Skull Brute (wip)",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/7.png"
+			}
+		},
+		{
+			"name": "Skull Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/8.png"
+			}
+		},
+		{
+			"name": "Kilik",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Creature — Insect",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/9.png"
+			}
+		},
+		{
+			"name": "Beastfly",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/10.png"
+			}
+		},
+		{
+			"name": "Savage Beastfly",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/11.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/12.png"
+			}
+		},
+		{
+			"name": "Vicious Caranid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/13.png"
+			}
+		},
+		{
+			"name": "Hardbone Hopper",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/14.png"
+			}
+		},
+		{
+			"name": "Hardbone Elder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/15.png"
+			}
+		},
+		{
+			"name": "Tarmite",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/16.png"
+			}
+		},
+		{
+			"name": "Mawling",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Creature — Insect",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/17.png"
+			}
+		},
+		{
+			"name": "Marrowmaw",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Creature — Insect",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/18.png"
+			}
+		},
+		{
+			"name": "Hoker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/19.png"
+			}
+		},
+		{
+			"name": "Flintbeetle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/20.png"
+			}
+		},
+		{
+			"name": "Rhinogrund",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/21.png"
+			}
+		},
+		{
+			"name": "Gromling",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/22.png"
+			}
+		},
+		{
+			"name": "Bell Beast",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/23.png"
+			}
+		},
+		{
+			"name": "Pilgrim Guide",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/24.png"
+			}
+		},
+		{
+			"name": "Covetous Pilgrim",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Creature — Insect Peasant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/25.png"
+			}
+		},
+		{
+			"name": "Snitchfly",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Creature — Insect Rogue",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/26.png"
+			}
+		},
+		{
+			"name": "Grindle, Master Pilferer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Insect Rogue",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/27.png"
+			}
+		},
+		{
+			"name": "Insect Peasant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Peasant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/28.png"
+			}
+		},
+		{
+			"name": "Rosary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Rosary",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/29.png"
+			}
+		},
+		{
+			"name": "Lavalug",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Slug",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/30.png"
+			}
+		},
+		{
+			"name": "Lavalarga",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Slug",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/31.png"
+			}
+		},
+		{
+			"name": "Smelt Shoveller",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/32.png"
+			}
+		},
+		{
+			"name": "Flintstone Flyer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/33.png"
+			}
+		},
+		{
+			"name": "Flintflame Flyer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/34.png"
+			}
+		},
+		{
+			"name": "Smokerock Sifter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/35.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/36.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/37.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/38.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/39.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/40.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/41.png"
+			}
+		},
+		{
+			"name": "Deep Diver",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/42.png"
+			}
+		},
+		{
+			"name": "Forebrother Signis",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Insect Worker",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/43.png"
+			}
+		},
+		{
+			"name": "Forebrother Gron",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Insect Worker",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/44.png"
+			}
+		},
+		{
+			"name": "Cragglite",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "116",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/45_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/45_front.png"
+			}
+		},
+		{
+			"name": "Hornet, Daughter of Hallownest",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Planeswalker — Hornet",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/46.png"
+			}
+		},
+		{
+			"name": "Fertid Attempt",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/47.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/48.png"
+			}
+		},
+		{
+			"name": "Haunted Pilgrimage",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/49.png"
+			}
+		},
+		{
+			"name": "Mother's Call",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/50.png"
+			}
+		},
+		{
+			"name": "Fourth Chorus",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/51.png"
+			}
+		},
+		{
+			"name": "Twelfth Architect",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Construct Artificer",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/52.png"
+			}
+		},
+		{
+			"name": "Skarr Ambush",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/53.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/54.png"
+			}
+		},
+		{
+			"name": "Skarr Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Scout",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/55.png"
+			}
+		},
+		{
+			"name": "Skarr Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/56.png"
+			}
+		},
+		{
+			"name": "Spear Skarr",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/57.png"
+			}
+		},
+		{
+			"name": "Skarrgard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/58.png"
+			}
+		},
+		{
+			"name": "Mottled Skarr",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Insect Nomad",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/59.png"
+			}
+		},
+		{
+			"name": "Gurr, The Outcast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Insect Scout",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/60.png"
+			}
+		},
+		{
+			"name": "Trap",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Creature — Trap",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/61.png"
+			}
+		},
+		{
+			"name": "Last Claw",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/62.png"
+			}
+		},
+		{
+			"name": "Karmelita, Skarrsinger",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/63.png"
+			}
+		},
+		{
+			"name": "Mite Infestation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/64.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/65.png"
+			}
+		},
+		{
+			"name": "Mitemother",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/66.png"
+			}
+		},
+		{
+			"name": "Dreg Catcher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/67.png"
+			}
+		},
+		{
+			"name": "Silk Snipper",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/68.png"
+			}
+		},
+		{
+			"name": "Thread Raker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/69.png"
+			}
+		},
+		{
+			"name": "Moorwing, Wild Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Insect Beast",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/70.png"
+			}
+		},
+		{
+			"name": "Wisp Lantern",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/71.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/72.png"
+			}
+		},
+		{
+			"name": "Burning Bug",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Shaman",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/73.png"
+			}
+		},
+		{
+			"name": "Father Of The Flame",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Artifact Creature — Construct God",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/74.png"
+			}
+		},
+		{
+			"name": "Craw",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect Bird",
+			"collector_number": "56",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/75_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/75_front.png"
+			}
+		},
+		{
+			"name": "Tallcraw",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect Bird",
+			"collector_number": "70",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/76_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/76_front.png"
+			}
+		},
+		{
+			"name": "Squatcraw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Bird",
+			"collector_number": "69",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/77_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/77_front.png"
+			}
+		},
+		{
+			"name": "Crawfather",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Insect Bird Inquisitor",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/78.png"
+			}
+		},
+		{
+			"name": "Bileblight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/79.png"
+			}
+		},
+		{
+			"name": "Slubberlug Pen",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/80.png"
+			}
+		},
+		{
+			"name": "Muckroach",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/81.png"
+			}
+		},
+		{
+			"name": "Bloatroach",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Insect Beast Mutant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/82.png"
+			}
+		},
+		{
+			"name": "Roachcatcher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/83.png"
+			}
+		},
+		{
+			"name": "Roachfeeder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/84.png"
+			}
+		},
+		{
+			"name": "Roachkeeper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/85.png"
+			}
+		},
+		{
+			"name": "Roachserver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect Worker",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/86.png"
+			}
+		},
+		{
+			"name": "Lugoli, Disgraced Chef",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Insect Worker",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/87.png"
+			}
+		},
+		{
+			"name": "Silken Mist",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/88.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Illusion",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/89.png"
+			}
+		},
+		{
+			"name": "Swamp Swarm",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/90.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/91.png"
+			}
+		},
+		{
+			"name": "Squit's Spit",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/92.png"
+			}
+		},
+		{
+			"name": "Stilkin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Stilkin Insect Scout",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/93.png"
+			}
+		},
+		{
+			"name": "Stilkin Trapper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Stilkin Insect Scout",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/94.png"
+			}
+		},
+		{
+			"name": "Groal The Great",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Insect Frog Shaman",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/95.png"
+			}
+		},
+		{
+			"name": "Bilehaven",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/96.png"
+			}
+		},
+		{
+			"name": "Barnak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/97.png"
+			}
+		},
+		{
+			"name": "Ductsucker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Insect Leech Horror",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/98.png"
+			}
+		},
+		{
+			"name": "Pondcatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Ranger",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/99.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/100.png"
+			}
+		},
+		{
+			"name": "Shellwood Gnat",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "181",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/101_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/101_front.png"
+			}
+		},
+		{
+			"name": "Woodhive",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/102.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/103.png"
+			}
+		},
+		{
+			"name": "Splinter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/104.png"
+			}
+		},
+		{
+			"name": "Splinterhorn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/105.png"
+			}
+		},
+		{
+			"name": "Splinterbark",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/106.png"
+			}
+		},
+		{
+			"name": "Sister Splinter, Forest Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/107.png"
+			}
+		},
+		{
+			"name": "Phacia",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/108.png"
+			}
+		},
+		{
+			"name": "Pollenica",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Plant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/109.png"
+			}
+		},
+		{
+			"name": "Gahlia",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/110.png"
+			}
+		},
+		{
+			"name": "Seth, Shrine Guardian",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "202",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/111_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/111_front.png"
+			}
+		},
+		{
+			"name": "Nyleth, Heart of Shellwood",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Plant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/112.png"
+			}
+		},
+		{
+			"name": "Furm",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/113.png"
+			}
+		},
+		{
+			"name": "Winged Furm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/114.png"
+			}
+		},
+		{
+			"name": "Pharlid Assault",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/115.png"
+			}
+		},
+		{
+			"name": "Shardillard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Creature — Insect",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/116.png"
+			}
+		},
+		{
+			"name": "Squirrm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Insect",
+			"collector_number": "47",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/117_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/117_front.png"
+			}
+		},
+		{
+			"name": "Last Judge, Pilgrim's Test",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Insect Knight",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/118.png"
+			}
+		},
+		{
+			"name": "Coral Furm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/119.png"
+			}
+		},
+		{
+			"name": "Driznit",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/120.png"
+			}
+		},
+		{
+			"name": "Driznarga",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/121.png"
+			}
+		},
+		{
+			"name": "Pokenabbin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/122.png"
+			}
+		},
+		{
+			"name": "Great Conchflies",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "130",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/123_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/123_front.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Insect",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/124.png"
+			}
+		},
+		{
+			"name": "Trial of Coral Tower",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Kindred Enchantment — Karaka",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/125.png"
+			}
+		},
+		{
+			"name": "Gorge's Memory",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Kindred Sorcery — Karaka",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/126.png"
+			}
+		},
+		{
+			"name": "Karaka Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Karaka Insect",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/127.png"
+			}
+		},
+		{
+			"name": "Crustcrag",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Mutant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/128.png"
+			}
+		},
+		{
+			"name": "Kai-kin +++++",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Karaka Insect",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/129.png"
+			}
+		},
+		{
+			"name": "Yumama",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Karaka Jellyfish",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/130.png"
+			}
+		},
+		{
+			"name": "Karaka",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Karaka Insect Warrior",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/131.png"
+			}
+		},
+		{
+			"name": "Kakri",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Karaka Insect Warrior",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/132.png"
+			}
+		},
+		{
+			"name": "Yago",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Karaka Insect Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/133.png"
+			}
+		},
+		{
+			"name": "Karak Gor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Karaka Insect Warrior",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/134.png"
+			}
+		},
+		{
+			"name": "Alita",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Karaka Insect Warrior",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/135.png"
+			}
+		},
+		{
+			"name": "Corrcrust Karaka",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Karaka Insect Warrior",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/136.png"
+			}
+		},
+		{
+			"name": "Khann, Crust King",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Karaka Insect Warrior",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/137.png"
+			}
+		},
+		{
+			"name": "Watcher At The Edge",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Karaka Insect Warrior",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/138.png"
+			}
+		},
+		{
+			"name": "Volyvyrm",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Worm",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/139.png"
+			}
+		},
+		{
+			"name": "Drapelord",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Creature — Insect",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/140.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/141.png"
+			}
+		},
+		{
+			"name": "Drapemite",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Creature — Insect",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/142.png"
+			}
+		},
+		{
+			"name": "Automated Confessional",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/143.png"
+			}
+		},
+		{
+			"name": "Insect Worker",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Worker",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/144.png"
+			}
+		},
+		{
+			"name": "Haunted Choir",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/145.png"
+			}
+		},
+		{
+			"name": "Insect Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Citizen",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/146.png"
+			}
+		},
+		{
+			"name": "Choristor",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/147.png"
+			}
+		},
+		{
+			"name": "Reed",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/148.png"
+			}
+		},
+		{
+			"name": "Grand Reed",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/149.png"
+			}
+		},
+		{
+			"name": "Choir Clapper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/150.png"
+			}
+		},
+		{
+			"name": "Clawmaiden",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/151.png"
+			}
+		},
+		{
+			"name": "Memoria",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Artificer",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/152.png"
+			}
+		},
+		{
+			"name": "Minister",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Performer",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/153.png"
+			}
+		},
+		{
+			"name": "Maestro",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Insect Performer",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/154.png"
+			}
+		},
+		{
+			"name": "Conductor Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Conductor Construct",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/155.png"
+			}
+		},
+		{
+			"name": "Second Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Construct Warrior",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/156.png"
+			}
+		},
+		{
+			"name": "Dreg Husk",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Insect Zombie",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/157.png"
+			}
+		},
+		{
+			"name": "Dregwheel",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Insect Zombie",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/158.png"
+			}
+		},
+		{
+			"name": "Citadel Surgeon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Doctor",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/159.png"
+			}
+		},
+		{
+			"name": "Citadel Mortician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Doctor",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/160.png"
+			}
+		},
+		{
+			"name": "The Unravelled",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Insect Zombie",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/161.png"
+			}
+		},
+		{
+			"name": "Insect Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect Zombie",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/162.png"
+			}
+		},
+		{
+			"name": "Haunting Puppetry",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/163.png"
+			}
+		},
+		{
+			"name": "Cogwork Defense System",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/164.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/165.png"
+			}
+		},
+		{
+			"name": "Cogwork Hauler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/166.png"
+			}
+		},
+		{
+			"name": "Cogwork Cleanser",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/167.png"
+			}
+		},
+		{
+			"name": "Cogwork Defender",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/168.png"
+			}
+		},
+		{
+			"name": "Cogwork Clapper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/169.png"
+			}
+		},
+		{
+			"name": "Cogwork Dancers",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/170.png"
+			}
+		},
+		{
+			"name": "Cogbroken Dancer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact Creature — Construct",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/171.png"
+			}
+		},
+		{
+			"name": "Lampbearer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Cleric",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/172.png"
+			}
+		},
+		{
+			"name": "Scrollreader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Cleric",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/173.png"
+			}
+		},
+		{
+			"name": "Vaultkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Insect Cleric",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/174.png"
+			}
+		},
+		{
+			"name": "Trobbio, Jubilant Thespian",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Insect Performer",
+			"collector_number": "162",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/175_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/175_front.png"
+			}
+		},
+		{
+			"name": "Penitence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/176.png"
+			}
+		},
+		{
+			"name": "Guardfly",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/177.png"
+			}
+		},
+		{
+			"name": "Wardenfly",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/178.png"
+			}
+		},
+		{
+			"name": "Broodmother Of The Slab",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Insect Praetor",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/179.png"
+			}
+		},
+		{
+			"name": "The Slab",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/180.png"
+			}
+		},
+		{
+			"name": "Driftlin",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Snow Creature — Insect",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/181.png"
+			}
+		},
+		{
+			"name": "Mnemonid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{S}",
+			"type": "Snow Creature — Golem",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/182.png"
+			}
+		},
+		{
+			"name": "Mnemonord",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{S}{S}",
+			"type": "Snow Creature — Golem",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/183.png"
+			}
+		},
+		{
+			"name": "Fayforn, Queen Of The Mount",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Snow Creature — Insect Beast",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/184.png"
+			}
+		},
+		{
+			"name": "Mount Fay",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/185.png"
+			}
+		},
+		{
+			"name": "Servitor Ignim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/186.png"
+			}
+		},
+		{
+			"name": "Servitor Boran",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/187.png"
+			}
+		},
+		{
+			"name": "Plasmium Blight",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/188.png"
+			}
+		},
+		{
+			"name": "Lifeseed",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/189.png"
+			}
+		},
+		{
+			"name": "Plasmid",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Mutant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/190.png"
+			}
+		},
+		{
+			"name": "Plasmidas",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Insect Mutant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/191.png"
+			}
+		},
+		{
+			"name": "Zango, Plasmified Assistant",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Insect Scientist Mutant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/192.png"
+			}
+		},
+		{
+			"name": "Pendragor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/193.png"
+			}
+		},
+		{
+			"name": "Nuphar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/194.png"
+			}
+		},
+		{
+			"name": "Cloverstag",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/195.png"
+			}
+		},
+		{
+			"name": "Palestag, Greatest Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Enchantment Creature — Insect Beast Incarnation",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/196.png"
+			}
+		},
+		{
+			"name": "Kindanir",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/197.png"
+			}
+		},
+		{
+			"name": "Verdanir",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/198.png"
+			}
+		},
+		{
+			"name": "Escalion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/199.png"
+			}
+		},
+		{
+			"name": "Green Prince, Last Verdanian",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/200_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/200_front.png"
+			}
+		},
+		{
+			"name": "Shadow Creeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/201.png"
+			}
+		},
+		{
+			"name": "Gloomsac",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Horror",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/202.png"
+			}
+		},
+		{
+			"name": "Gargant Gloom",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/203.png"
+			}
+		},
+		{
+			"name": "Voidweave",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/204.png"
+			}
+		},
+		{
+			"name": "Summoned Savior",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Incarnation Horror",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/205.png"
+			}
+		},
+		{
+			"name": "Bell Eater",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/206.png"
+			}
+		},
+		{
+			"name": "Huge Flea",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/207.png"
+			}
+		},
+		{
+			"name": "Shakra, Wielding Rings",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/208.png"
+			}
+		},
+		{
+			"name": "Garmond, Sworn To Fight",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "128",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/209_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/209_front.png"
+			}
+		},
+		{
+			"name": "Zaza",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Insect",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/210.png"
+			}
+		},
+		{
+			"name": "Spider",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spider",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/211.png"
+			}
+		},
+		{
+			"name": "Pinstress, Last Of Her Sect",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Insect Bird Warrior",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/212.png"
+			}
+		},
+		{
+			"name": "Widow, Devoted Weaver",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Spider Spellshaper",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/213.png"
+			}
+		},
+		{
+			"name": "First Sinner",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/W}",
+			"type": "Legendary Creature — Spider Artificer",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/214.png"
+			}
+		},
+		{
+			"name": "First Sinner",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/W}",
+			"type": "Legendary Creature — Spider Artificer",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/215.png"
+			}
+		},
+		{
+			"name": "Rune",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Rune",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/216.png"
+			}
+		},
+		{
+			"name": "Phantom Of The Citadel",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment Creature — Homunculus Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/217.png"
+			}
+		},
+		{
+			"name": "Lace, The Silk-Spun Child",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment Creature — Homunculus Warrior",
+			"collector_number": "35",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/218_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/218_front.png"
+			}
+		},
+		{
+			"name": "Grand Mother Silk, Pharloom Eternal",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/219.png"
+			}
+		},
+		{
+			"name": "Soul Snare",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/220.png"
+			}
+		},
+		{
+			"name": "Scrounge, Relic Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/221.png"
+			}
+		},
+		{
+			"name": "Sherma, Purest Pilgrim",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Insect Peasant",
+			"collector_number": "19",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/222_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/222_front.png"
+			}
+		},
+		{
+			"name": "Rite Of Rebirth",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "201",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://endei101.github.io/sets/HKS-files/img/223_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/223_front.png"
+			}
+		},
+		{
+			"name": "Eva, Form Too Frail",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Enchantment Creature — Homunculus",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/224.png"
+			}
+		},
+		{
+			"name": "Nuu, The Curious Child",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Slug",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/225.png"
+			}
+		},
+		{
+			"name": "Styx, Devoted Tender",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/226.png"
+			}
+		},
+		{
+			"name": "Silkeater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact — Silkeater",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/227.png"
+			}
+		},
+		{
+			"name": "Magma Bell",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/228.png"
+			}
+		},
+		{
+			"name": "Silkshot",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/229.png"
+			}
+		},
+		{
+			"name": "Flea Brew",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/230.png"
+			}
+		},
+		{
+			"name": "Pollip Pouch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/231.png"
+			}
+		},
+		{
+			"name": "Multibinder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/232.png"
+			}
+		},
+		{
+			"name": "Injector Band",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/233.png"
+			}
+		},
+		{
+			"name": "Snitch Pick",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/234.png"
+			}
+		},
+		{
+			"name": "Volt Filament",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/235.png"
+			}
+		},
+		{
+			"name": "Spool Extender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/236.png"
+			}
+		},
+		{
+			"name": "Wreath Of Purity",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/237.png"
+			}
+		},
+		{
+			"name": "Wanderer's Compass",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/238.png"
+			}
+		},
+		{
+			"name": "Longclaw",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/239.png"
+			}
+		},
+		{
+			"name": "Barbed Bracelet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/240.png"
+			}
+		},
+		{
+			"name": "Silkspeed Anklets",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/241.png"
+			}
+		},
+		{
+			"name": "False Bench",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/242.png"
+			}
+		},
+		{
+			"name": "Dead Bug's Purse",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/243.png"
+			}
+		},
+		{
+			"name": "Bellshrine",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/244.png"
+			}
+		},
+		{
+			"name": "Grand Gate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Gate",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/245.png"
+			}
+		},
+		{
+			"name": "Fayforn, Queen Of The Mount",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Snow Creature — Insect Beast",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/246.png"
+			}
+		},
+		{
+			"name": "Wrest From The Void",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/247.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/248.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/249.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/250.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/251.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/252.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/253.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/254.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/255.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/256.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/257.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/258.png"
+			}
+		},
+		{
+			"name": "Way Of The Bells",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/259.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/260.png"
+			}
+		},
+		{
+			"name": "Pale Offer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/261.png"
+			}
+		},
+		{
+			"name": "Hunter Crest",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Class",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/262.png"
+			}
+		},
+		{
+			"name": "Reaper Crest",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Class",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/263.png"
+			}
+		},
+		{
+			"name": "Wanderer Crest",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Class",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/264.png"
+			}
+		},
+		{
+			"name": "Beast Crest",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment — Class",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/265.png"
+			}
+		},
+		{
+			"name": "Witch Crest",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Class",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/266.png"
+			}
+		},
+		{
+			"name": "Architect Crest",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Enchantment — Class",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/267.png"
+			}
+		},
+		{
+			"name": "Shaman Crest",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Class",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/268.png"
+			}
+		},
+		{
+			"name": "Vesticrest",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/269.png"
+			}
+		},
+		{
+			"name": "Magnetite Dice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/270.png"
+			}
+		},
+		{
+			"name": "Magnetite Brooch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/271.png"
+			}
+		},
+		{
+			"name": "Couriers Tipp And Pill",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Insect Scout",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/272.png"
+			}
+		},
+		{
+			"name": "Vine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wall",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/273.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/274.png"
+			}
+		},
+		{
+			"name": "Harvest For Silk",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/275.png"
+			}
+		},
+		{
+			"name": "Gated Gauntlet",
+			"rarity": "common",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/276.png"
+			}
+		},
+		{
+			"name": "Cogwork Choir",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/277.png"
+			}
+		},
+		{
+			"name": "Arcane Egg",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/278.png"
+			}
+		},
+		{
+			"name": "Hornet's Hijacking",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/279.png"
+			}
+		},
+		{
+			"name": "Hornet's Binding",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/280.png"
+			}
+		},
+		{
+			"name": "Hornet's Multitudes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/281.png"
+			}
+		},
+		{
+			"name": "Groal's Orders",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/282.png"
+			}
+		},
+		{
+			"name": "Weaver Effigy",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/283.png"
+			}
+		},
+		{
+			"name": "Yarnaby, Secluded Surgeon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Insect Doctor",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/284.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/285.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://endei101.github.io/sets/HKS-files/img/286.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Moss Mother
+	2 Bell Beast
+	2 Pilgrim Guide
+	2 Covetous Pilgrim
+	2 Grindle, Master Pilferer
+	1 Forebrother Signis
+	2 Cragglite
+	1 Hornet, Daughter of Hallownest
+	2 Fourth Chorus
+	1 Twelfth Architect
+	2 Karmelita, Skarrsinger
+	2 Father Of The Flame
+	2 Crawfather
+	2 Silken Mist
+	2 Groal The Great
+	2 Sister Splinter, Forest Tyrant
+	1 Seth, Shrine Guardian
+	2 Nyleth, Heart of Shellwood
+	2 Last Judge, Pilgrim's Test
+	2 Great Conchflies
+	2 Trial of Coral Tower
+	2 Khann, Crust King
+	2 Watcher At The Edge
+	2 Volyvyrm
+	2 Automated Confessional
+	2 Haunted Choir
+	2 Clawmaiden
+	2 Maestro
+	2 Second Sentinel
+	2 The Unravelled
+	2 Haunting Puppetry
+	2 Cogwork Dancers
+	2 Trobbio, Jubilant Thespian
+	2 Broodmother Of The Slab
+	2 Fayforn, Queen Of The Mount
+	2 Plasmium Blight
+	2 Zango, Plasmified Assistant
+	1 Green Prince, Last Verdanian
+	2 Voidweave
+	2 Summoned Savior
+	2 Bell Eater
+	2 Shakra, Wielding Rings
+	2 Garmond, Sworn To Fight
+	2 Pinstress, Last Of Her Sect
+	2 Widow, Devoted Weaver
+	2 First Sinner
+	2 First Sinner
+	2 Phantom Of The Citadel
+	2 Lace, The Silk-Spun Child
+	1 Grand Mother Silk, Pharloom Eternal
+	2 Sherma, Purest Pilgrim
+	2 Rite Of Rebirth
+	2 Eva, Form Too Frail
+	2 Nuu, The Curious Child
+	2 Styx, Devoted Tender
+	2 Silkshot
+	2 Fayforn, Queen Of The Mount
+	2 Wrest From The Void
+	2 Way Of The Bells
+	2 Hunter Crest
+	2 Reaper Crest
+	2 Wanderer Crest
+	2 Beast Crest
+	2 Witch Crest
+	2 Architect Crest
+	2 Shaman Crest
+	2 Cogwork Choir
+[uncommon(3)]
+	4 Skull Tyrant
+	4 Savage Beastfly
+	4 Vicious Caranid
+	4 Hardbone Elder
+	4 Tarmite
+	4 Marrowmaw
+	4 Hoker
+	4 Flintbeetle
+	4 Rhinogrund
+	4 Snitchfly
+	4 Lavalug
+	4 Lavalarga
+	4 Flintflame Flyer
+	4 Smokerock Sifter
+	4 Haunted Pilgrimage
+	4 Skarr Stalker
+	4 Spear Skarr
+	4 Skarrgard
+	4 Mottled Skarr
+	4 Gurr, The Outcast
+	4 Last Claw
+	4 Mitemother
+	4 Moorwing, Wild Warden
+	4 Wisp Lantern
+	4 Burning Bug
+	4 Craw
+	4 Tallcraw
+	4 Squatcraw
+	4 Bileblight
+	4 Slubberlug Pen
+	4 Muckroach
+	4 Bloatroach
+	4 Roachserver
+	4 Lugoli, Disgraced Chef
+	4 Stilkin
+	4 Stilkin Trapper
+	4 Bilehaven
+	4 Barnak
+	4 Ductsucker
+	4 Pondcatcher
+	4 Shellwood Gnat
+	4 Splinter
+	4 Splinterhorn
+	4 Splinterbark
+	4 Pollenica
+	4 Winged Furm
+	4 Shardillard
+	4 Squirrm
+	4 Coral Furm
+	4 Pokenabbin
+	4 Kai-kin +++++
+	4 Yumama
+	4 Karaka
+	4 Kakri
+	4 Yago
+	4 Karak Gor
+	4 Alita
+	4 Corrcrust Karaka
+	4 Drapelord
+	4 Drapemite
+	4 Reed
+	4 Grand Reed
+	4 Choir Clapper
+	4 Memoria
+	4 Minister
+	4 Dreg Husk
+	4 Dregwheel
+	4 Citadel Surgeon
+	4 Citadel Mortician
+	4 Cogwork Defense System
+	4 Cogwork Hauler
+	4 Cogwork Cleanser
+	4 Cogwork Clapper
+	4 Lampbearer
+	4 Scrollreader
+	4 Vaultkeeper
+	4 Penitence
+	4 Guardfly
+	4 Wardenfly
+	4 The Slab
+	4 Mnemonid
+	4 Mnemonord
+	4 Mount Fay
+	4 Servitor Ignim
+	4 Servitor Boran
+	4 Lifeseed
+	4 Plasmid
+	4 Plasmidas
+	4 Pendragor
+	4 Nuphar
+	4 Palestag, Greatest Hunt
+	4 Kindanir
+	4 Verdanir
+	4 Escalion
+	4 Shadow Creeper
+	4 Gloomsac
+	4 Gargant Gloom
+	4 Huge Flea
+	4 Soul Snare
+	4 Scrounge, Relic Seeker
+	4 Pollip Pouch
+	4 Multibinder
+	4 Injector Band
+	4 Volt Filament
+	4 Spool Extender
+	4 Wanderer's Compass
+	4 Barbed Bracelet
+	4 Silkspeed Anklets
+	4 Bellshrine
+	4 Pale Offer
+	4 Vesticrest
+	4 Magnetite Dice
+	4 Magnetite Brooch
+	4 Couriers Tipp And Pill
+	4 Hornet's Multitudes
+	4 Yarnaby, Secluded Surgeon
+[common(7)]
+	8 Massive Mossgrub
+	8 Aknid
+	8 Skull Scuttler
+	8 Skullwing
+	8 Skull Brute (wip)
+	8 Kilik
+	8 Beastfly
+	8 Hardbone Hopper
+	8 Mawling
+	8 Gromling
+	8 Smelt Shoveller
+	8 Flintstone Flyer
+	8 Deep Diver
+	8 Fertid Attempt
+	8 Mother's Call
+	8 Skarr Ambush
+	8 Skarr Scout
+	8 Mite Infestation
+	8 Dreg Catcher
+	8 Silk Snipper
+	8 Thread Raker
+	8 Roachcatcher
+	8 Roachfeeder
+	8 Roachkeeper
+	8 Swamp Swarm
+	8 Squit's Spit
+	8 Woodhive
+	8 Phacia
+	8 Gahlia
+	8 Furm
+	8 Pharlid Assault
+	8 Driznit
+	8 Driznarga
+	8 Gorge's Memory
+	8 Crustcrag
+	8 Choristor
+	8 Cogwork Defender
+	8 Driftlin
+	8 Cloverstag
+	8 Magma Bell
+	8 Flea Brew
+	8 Snitch Pick
+	8 Wreath Of Purity
+	8 Longclaw
+	8 False Bench
+	8 Dead Bug's Purse
+	8 Grand Gate
+	8 Harvest For Silk
+	8 Gated Gauntlet
+	8 Arcane Egg
+	8 Hornet's Hijacking
+	8 Hornet's Binding
+	8 Groal's Orders
+	8 Weaver Effigy
+[foil(1)]
+	12 Massive Mossgrub
+	2 Moss Mother
+	12 Aknid
+	12 Skull Scuttler
+	12 Skullwing
+	12 Skull Brute (wip)
+	6 Skull Tyrant
+	12 Kilik
+	12 Beastfly
+	6 Savage Beastfly
+	6 Vicious Caranid
+	12 Hardbone Hopper
+	6 Hardbone Elder
+	6 Tarmite
+	12 Mawling
+	6 Marrowmaw
+	6 Hoker
+	6 Flintbeetle
+	6 Rhinogrund
+	12 Gromling
+	2 Bell Beast
+	2 Pilgrim Guide
+	2 Covetous Pilgrim
+	6 Snitchfly
+	2 Grindle, Master Pilferer
+	6 Lavalug
+	6 Lavalarga
+	12 Smelt Shoveller
+	12 Flintstone Flyer
+	6 Flintflame Flyer
+	6 Smokerock Sifter
+	12 Deep Diver
+	1 Forebrother Signis
+	2 Cragglite
+	1 Hornet, Daughter of Hallownest
+	12 Fertid Attempt
+	6 Haunted Pilgrimage
+	12 Mother's Call
+	2 Fourth Chorus
+	1 Twelfth Architect
+	12 Skarr Ambush
+	12 Skarr Scout
+	6 Skarr Stalker
+	6 Spear Skarr
+	6 Skarrgard
+	6 Mottled Skarr
+	6 Gurr, The Outcast
+	6 Last Claw
+	2 Karmelita, Skarrsinger
+	12 Mite Infestation
+	6 Mitemother
+	12 Dreg Catcher
+	12 Silk Snipper
+	12 Thread Raker
+	6 Moorwing, Wild Warden
+	6 Wisp Lantern
+	6 Burning Bug
+	2 Father Of The Flame
+	6 Craw
+	6 Tallcraw
+	6 Squatcraw
+	2 Crawfather
+	6 Bileblight
+	6 Slubberlug Pen
+	6 Muckroach
+	6 Bloatroach
+	12 Roachcatcher
+	12 Roachfeeder
+	12 Roachkeeper
+	6 Roachserver
+	6 Lugoli, Disgraced Chef
+	2 Silken Mist
+	12 Swamp Swarm
+	12 Squit's Spit
+	6 Stilkin
+	6 Stilkin Trapper
+	2 Groal The Great
+	6 Bilehaven
+	6 Barnak
+	6 Ductsucker
+	6 Pondcatcher
+	6 Shellwood Gnat
+	12 Woodhive
+	6 Splinter
+	6 Splinterhorn
+	6 Splinterbark
+	2 Sister Splinter, Forest Tyrant
+	12 Phacia
+	6 Pollenica
+	12 Gahlia
+	1 Seth, Shrine Guardian
+	2 Nyleth, Heart of Shellwood
+	12 Furm
+	6 Winged Furm
+	12 Pharlid Assault
+	6 Shardillard
+	6 Squirrm
+	2 Last Judge, Pilgrim's Test
+	6 Coral Furm
+	12 Driznit
+	12 Driznarga
+	6 Pokenabbin
+	2 Great Conchflies
+	2 Trial of Coral Tower
+	12 Gorge's Memory
+	12 Crustcrag
+	6 Kai-kin +++++
+	6 Yumama
+	6 Karaka
+	6 Kakri
+	6 Yago
+	6 Karak Gor
+	6 Alita
+	6 Corrcrust Karaka
+	2 Khann, Crust King
+	2 Watcher At The Edge
+	2 Volyvyrm
+	6 Drapelord
+	6 Drapemite
+	2 Automated Confessional
+	2 Haunted Choir
+	12 Choristor
+	6 Reed
+	6 Grand Reed
+	6 Choir Clapper
+	2 Clawmaiden
+	6 Memoria
+	6 Minister
+	2 Maestro
+	2 Second Sentinel
+	6 Dreg Husk
+	6 Dregwheel
+	6 Citadel Surgeon
+	6 Citadel Mortician
+	2 The Unravelled
+	2 Haunting Puppetry
+	6 Cogwork Defense System
+	6 Cogwork Hauler
+	6 Cogwork Cleanser
+	12 Cogwork Defender
+	6 Cogwork Clapper
+	2 Cogwork Dancers
+	6 Lampbearer
+	6 Scrollreader
+	6 Vaultkeeper
+	2 Trobbio, Jubilant Thespian
+	6 Penitence
+	6 Guardfly
+	6 Wardenfly
+	2 Broodmother Of The Slab
+	6 The Slab
+	12 Driftlin
+	6 Mnemonid
+	6 Mnemonord
+	2 Fayforn, Queen Of The Mount
+	6 Mount Fay
+	6 Servitor Ignim
+	6 Servitor Boran
+	2 Plasmium Blight
+	6 Lifeseed
+	6 Plasmid
+	6 Plasmidas
+	2 Zango, Plasmified Assistant
+	6 Pendragor
+	6 Nuphar
+	12 Cloverstag
+	6 Palestag, Greatest Hunt
+	6 Kindanir
+	6 Verdanir
+	6 Escalion
+	1 Green Prince, Last Verdanian
+	6 Shadow Creeper
+	6 Gloomsac
+	6 Gargant Gloom
+	2 Voidweave
+	2 Summoned Savior
+	2 Bell Eater
+	6 Huge Flea
+	2 Shakra, Wielding Rings
+	2 Garmond, Sworn To Fight
+	2 Pinstress, Last Of Her Sect
+	2 Widow, Devoted Weaver
+	2 First Sinner
+	2 First Sinner
+	2 Phantom Of The Citadel
+	2 Lace, The Silk-Spun Child
+	1 Grand Mother Silk, Pharloom Eternal
+	6 Soul Snare
+	6 Scrounge, Relic Seeker
+	2 Sherma, Purest Pilgrim
+	2 Rite Of Rebirth
+	2 Eva, Form Too Frail
+	2 Nuu, The Curious Child
+	2 Styx, Devoted Tender
+	12 Magma Bell
+	2 Silkshot
+	12 Flea Brew
+	6 Pollip Pouch
+	6 Multibinder
+	6 Injector Band
+	12 Snitch Pick
+	6 Volt Filament
+	6 Spool Extender
+	12 Wreath Of Purity
+	6 Wanderer's Compass
+	12 Longclaw
+	6 Barbed Bracelet
+	6 Silkspeed Anklets
+	12 False Bench
+	12 Dead Bug's Purse
+	6 Bellshrine
+	12 Grand Gate
+	2 Fayforn, Queen Of The Mount
+	2 Wrest From The Void
+	2 Way Of The Bells
+	6 Pale Offer
+	2 Hunter Crest
+	2 Reaper Crest
+	2 Wanderer Crest
+	2 Beast Crest
+	2 Witch Crest
+	2 Architect Crest
+	2 Shaman Crest
+	6 Vesticrest
+	6 Magnetite Dice
+	6 Magnetite Brooch
+	6 Couriers Tipp And Pill
+	12 Harvest For Silk
+	12 Gated Gauntlet
+	2 Cogwork Choir
+	12 Arcane Egg
+	12 Hornet's Hijacking
+	12 Hornet's Binding
+	6 Hornet's Multitudes
+	12 Groal's Orders
+	12 Weaver Effigy
+	6 Yarnaby, Secluded Surgeon
+[wildcard(1)]
+	6 Massive Mossgrub
+	7 Moss Mother
+	6 Aknid
+	6 Skull Scuttler
+	6 Skullwing
+	6 Skull Brute (wip)
+	15 Skull Tyrant
+	6 Kilik
+	6 Beastfly
+	15 Savage Beastfly
+	15 Vicious Caranid
+	6 Hardbone Hopper
+	15 Hardbone Elder
+	15 Tarmite
+	6 Mawling
+	15 Marrowmaw
+	15 Hoker
+	15 Flintbeetle
+	15 Rhinogrund
+	6 Gromling
+	7 Bell Beast
+	7 Pilgrim Guide
+	7 Covetous Pilgrim
+	15 Snitchfly
+	7 Grindle, Master Pilferer
+	15 Lavalug
+	15 Lavalarga
+	6 Smelt Shoveller
+	6 Flintstone Flyer
+	15 Flintflame Flyer
+	15 Smokerock Sifter
+	6 Deep Diver
+	4 Forebrother Signis
+	7 Cragglite
+	4 Hornet, Daughter of Hallownest
+	6 Fertid Attempt
+	15 Haunted Pilgrimage
+	6 Mother's Call
+	7 Fourth Chorus
+	4 Twelfth Architect
+	6 Skarr Ambush
+	6 Skarr Scout
+	15 Skarr Stalker
+	15 Spear Skarr
+	15 Skarrgard
+	15 Mottled Skarr
+	15 Gurr, The Outcast
+	15 Last Claw
+	7 Karmelita, Skarrsinger
+	6 Mite Infestation
+	15 Mitemother
+	6 Dreg Catcher
+	6 Silk Snipper
+	6 Thread Raker
+	15 Moorwing, Wild Warden
+	15 Wisp Lantern
+	15 Burning Bug
+	7 Father Of The Flame
+	15 Craw
+	15 Tallcraw
+	15 Squatcraw
+	7 Crawfather
+	15 Bileblight
+	15 Slubberlug Pen
+	15 Muckroach
+	15 Bloatroach
+	6 Roachcatcher
+	6 Roachfeeder
+	6 Roachkeeper
+	15 Roachserver
+	15 Lugoli, Disgraced Chef
+	7 Silken Mist
+	6 Swamp Swarm
+	6 Squit's Spit
+	15 Stilkin
+	15 Stilkin Trapper
+	7 Groal The Great
+	15 Bilehaven
+	15 Barnak
+	15 Ductsucker
+	15 Pondcatcher
+	15 Shellwood Gnat
+	6 Woodhive
+	15 Splinter
+	15 Splinterhorn
+	15 Splinterbark
+	7 Sister Splinter, Forest Tyrant
+	6 Phacia
+	15 Pollenica
+	6 Gahlia
+	4 Seth, Shrine Guardian
+	7 Nyleth, Heart of Shellwood
+	6 Furm
+	15 Winged Furm
+	6 Pharlid Assault
+	15 Shardillard
+	15 Squirrm
+	7 Last Judge, Pilgrim's Test
+	15 Coral Furm
+	6 Driznit
+	6 Driznarga
+	15 Pokenabbin
+	7 Great Conchflies
+	7 Trial of Coral Tower
+	6 Gorge's Memory
+	6 Crustcrag
+	15 Kai-kin +++++
+	15 Yumama
+	15 Karaka
+	15 Kakri
+	15 Yago
+	15 Karak Gor
+	15 Alita
+	15 Corrcrust Karaka
+	7 Khann, Crust King
+	7 Watcher At The Edge
+	7 Volyvyrm
+	15 Drapelord
+	15 Drapemite
+	7 Automated Confessional
+	7 Haunted Choir
+	6 Choristor
+	15 Reed
+	15 Grand Reed
+	15 Choir Clapper
+	7 Clawmaiden
+	15 Memoria
+	15 Minister
+	7 Maestro
+	7 Second Sentinel
+	15 Dreg Husk
+	15 Dregwheel
+	15 Citadel Surgeon
+	15 Citadel Mortician
+	7 The Unravelled
+	7 Haunting Puppetry
+	15 Cogwork Defense System
+	15 Cogwork Hauler
+	15 Cogwork Cleanser
+	6 Cogwork Defender
+	15 Cogwork Clapper
+	7 Cogwork Dancers
+	15 Lampbearer
+	15 Scrollreader
+	15 Vaultkeeper
+	7 Trobbio, Jubilant Thespian
+	15 Penitence
+	15 Guardfly
+	15 Wardenfly
+	7 Broodmother Of The Slab
+	15 The Slab
+	6 Driftlin
+	15 Mnemonid
+	15 Mnemonord
+	7 Fayforn, Queen Of The Mount
+	15 Mount Fay
+	15 Servitor Ignim
+	15 Servitor Boran
+	7 Plasmium Blight
+	15 Lifeseed
+	15 Plasmid
+	15 Plasmidas
+	7 Zango, Plasmified Assistant
+	15 Pendragor
+	15 Nuphar
+	6 Cloverstag
+	15 Palestag, Greatest Hunt
+	15 Kindanir
+	15 Verdanir
+	15 Escalion
+	4 Green Prince, Last Verdanian
+	15 Shadow Creeper
+	15 Gloomsac
+	15 Gargant Gloom
+	7 Voidweave
+	7 Summoned Savior
+	7 Bell Eater
+	15 Huge Flea
+	7 Shakra, Wielding Rings
+	7 Garmond, Sworn To Fight
+	7 Pinstress, Last Of Her Sect
+	7 Widow, Devoted Weaver
+	7 First Sinner
+	7 First Sinner
+	7 Phantom Of The Citadel
+	7 Lace, The Silk-Spun Child
+	4 Grand Mother Silk, Pharloom Eternal
+	15 Soul Snare
+	15 Scrounge, Relic Seeker
+	7 Sherma, Purest Pilgrim
+	7 Rite Of Rebirth
+	7 Eva, Form Too Frail
+	7 Nuu, The Curious Child
+	7 Styx, Devoted Tender
+	6 Magma Bell
+	7 Silkshot
+	6 Flea Brew
+	15 Pollip Pouch
+	15 Multibinder
+	15 Injector Band
+	6 Snitch Pick
+	15 Volt Filament
+	15 Spool Extender
+	6 Wreath Of Purity
+	15 Wanderer's Compass
+	6 Longclaw
+	15 Barbed Bracelet
+	15 Silkspeed Anklets
+	6 False Bench
+	6 Dead Bug's Purse
+	15 Bellshrine
+	6 Grand Gate
+	7 Fayforn, Queen Of The Mount
+	7 Wrest From The Void
+	7 Way Of The Bells
+	15 Pale Offer
+	7 Hunter Crest
+	7 Reaper Crest
+	7 Wanderer Crest
+	7 Beast Crest
+	7 Witch Crest
+	7 Architect Crest
+	7 Shaman Crest
+	15 Vesticrest
+	15 Magnetite Dice
+	15 Magnetite Brooch
+	15 Couriers Tipp And Pill
+	6 Harvest For Silk
+	6 Gated Gauntlet
+	7 Cogwork Choir
+	6 Arcane Egg
+	6 Hornet's Hijacking
+	6 Hornet's Binding
+	15 Hornet's Multitudes
+	6 Groal's Orders
+	6 Weaver Effigy
+	15 Yarnaby, Secluded Surgeon
