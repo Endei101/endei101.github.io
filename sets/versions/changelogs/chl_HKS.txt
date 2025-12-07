@@ -1,4 +1,980 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Kai-kin added.
+Grand Mother Silk added.
+Struggle Against The Abyss added.
+ABYSS EMBLEM added.
+Insect added.
+
+Kai-kin +++++ removed.
+Grand Mother Silk, Pharloom Eternal removed.
+Spool Extender removed.
+
+Moss Mother
+rules_text: Flying
+Moss Mother gains +2/+2 if you control another creature named Moss Mother.
+{1},{T}: Create two 0/1 green insect creature tokens and deal 1 damage to any target. => Flying
+Moss Mother gets +2/+2 if you control another creature named Moss Mother.
+{1},{T}: Create two 0/1 green insect creature tokens and deal 1 damage to any target.
+
+Aknid
+cost: {1} => {B}
+
+Skullwing
+rules_text: Flying
+When Skullwing dies, return it to the battlefield under its owner's control at the beginning of the next endstep. => Flying
+When Skullwing dies, return it to the battlefield under its owner's control at the beginning of the next end step.
+
+Skull Tyrant
+rules_text: Trample, menace
+When Skull Tyrant enters the battlefield, destroy target Town. => Trample, menace
+When Skull Tyrant enters, destroy target Town.
+
+Kilik
+cost: {2} => {1}{W}
+pt: 1/2 => 2/1
+
+Savage Beastfly
+rules_text: Flying, trample
+Whenever Savage Beastfly attacks, create a 2/1 colorless Insect creature token with flying that's tapped and attacking target opponent. => Flying, trample
+Whenever Savage Beastfly attacks, create a 2/1 colorless Insect creature token with flying that's tapped and attacking.
+
+Hardbone Hopper
+rules_text: [i]Landfall[/i] — Create a [/i]1/1 Insect creature token.[i]
+Whenever Hardbone Hopper would be dealt damage, return it to its owner's hand instead. => [i]Landfall[/i] — Whenever a land you control enters, create a [/i]1/1 Insect creature token.[i]
+Whenever Hardbone Hopper would be dealt damage, return it to its owner's hand instead.
+
+Hardbone Elder
+rules_text: [i]Landfall[/i] — Hardbone Elder deals 1 damage to target player or planeswalker.
+Sacrifice Hardbone Elder: Prevent the next instance of damage that would be dealt to target Insect. => [i]Landfall[/i] — Whenever a land you control enters, Hardbone Elder deals 1 damage to target player or planeswalker.
+Sacrifice Hardbone Elder: Prevent the next instance of damage that would be dealt to target Insect.
+
+Mawling
+cost: {1} => {R}
+
+Marrowmaw
+cost: {3} => {2}{G}
+rules_text: Trample
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i] => Trample
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Gromling
+rules_text: Flash, haste
+At the beginning of each endstep, return Gromling to its owner's hand. => Flash, haste
+At the beginning of each end step, return Gromling to its owner's hand.
+
+Bell Beast
+rules_text: Whenever Bell Beast attacks, it deals 1 damage to up to two target creatures.
+Whenever Bell Beast is blocked, it deals 3 damage to blocking player.
+{3},{T}: Reveal an Insect card with converted mana cost 3 or less from your hand and place it onto the battlefield. It gains haste. => Whenever Bell Beast attacks, it deals 1 damage to up to two target creatures.
+Whenever Bell Beast is blocked, it deals 3 damage to blocking player.
+{3},{T}: Reveal an Insect card with mana value 3 or less from your hand and place it onto the battlefield. It gains haste until end of turn.
+
+Pilgrim Guide
+rules_text: Devout 1. [i](When This creature dies, Pray 1.)[/i]
+When Pilgrim Guide enters the battlefield, create two 1/1 colorless Insect Peasant creature tokens with devout 1.
+At the beginning of your upkeep, create a 1/1 colorless Insect Peasant creature token with devout 1.
+Tokens created by Pilgrim Guide each enter with your choice of a first strike, flying, trample, or vigilance counter. => Devout 1. [i](When This creature dies, Pray 1.)[/i]
+When Pilgrim Guide enters, create two 1/1 colorless Insect Peasant creature tokens with devout 1.
+At the beginning of your upkeep, create a 1/1 colorless Insect Peasant creature token with devout 1.
+Tokens created by Pilgrim Guide each enter with your choice of a first strike, flying, trample, or vigilance counter.
+
+Covetous Pilgrim
+rules_text: Reach
+Covetous Pilgrim enters the battlefield with 6 +1/+0 counters on it.
+Whenever Covetous Pilgrim is dealt combat damage, remove a +1/+0 counter from it and pray 1.
+When Covetous Pilgrim dies, pray X, where X is the number of +1/+0 counters on it. => Reach
+Covetous Pilgrim enters with 6 Gold counters on it.
+Covetous Pilgrim gets +1/+0 for each Gold counter on it.
+Whenever Covetous Pilgrim is dealt combat damage, remove a +1/+0 counter from it and pray 1.
+When Covetous Pilgrim dies, pray X, where X is the number of Gold counters on it.
+
+Snitchfly
+cost: {2} => {1}{B}
+
+Grindle, Master Pilferer
+rules_text: Whenever a creature an opponent controls dies for the first time each turn, create a Treasure token unless that creature's controller pays {1}.
+Sacrifice a creature with devout: Surveil 1. => Whenever a creature an opponent controls dies for the first time each turn, create a Treasure token unless that creature's controller pays {1}.
+Sacrifice an artifact: Surveil 1.
+
+Smokerock Sifter
+rules_text: When Smokerock Sifter enters the battlefield, look at the top three cards of your library. You may reveal one red card from among them and put it into your hand. Put the rest onto the bottom of your library in a random order. => When Smokerock Sifter enters, look at the top three cards of your library. You may reveal one red card from among them and put it into your hand. Put the rest onto the bottom of your library in a random order.
+
+Forebrother Signis
+rules_text: Vigilance, mentor
+When Forebrother Ignis enters the battlefield, create Forebrother Gron, a legendary 4/2 red Insect Worker creature token with flying, vigilance, mentor and “Other Workers you control get +0/+1.”
+Other Workers you control get +1/+0 and gain vigilance. => Vigilance, mentor
+When Forebrother Ignis enters, create Forebrother Gron, a legendary 4/2 red Insect Worker creature token with flying, vigilance, mentor and “Other Workers you control get +0/+1.”
+Other Workers you control get +1/+0 and have vigilance.
+
+Cragglite
+rules_text: At the beginning of your upkeep, put a Time counter to Cragglite. Then if it has 3 or more Time counters on it and you don't control a creature named Craggler, transform it. => At the beginning of your upkeep, put a Growth counter to Cragglite. Then if it has three or more Growth counters on it and you don't control a creature named Craggler, transform it.
+
+Hornet, Daughter of Hallownest
+rules_text: As long as it's your turn, Hornet is a white Spider God creature with power and toughness each equal to the number of loyalty counters on her and she has indestructible. She's still a planeswalker.
+Prevent all damage that would be dealt to Hornet on your turn.
+[+1]: Hornet deals 1 damage to target Player or Planeswalker.
+[-3]: Destroy target enchantment and put loyalty counters on Hornet equal to its converted mana cost. => During your turn, as long as Hornet has one or more counters on her, she's a Spider Demigod creature with power and toughness each equal to the number of loyalty counters on her and has indestructible.
+[+1]: Put a Tack counter on target creature. Whenever a creature with a Tack counter is tapped, remove a Tack counter from it and Hornet deals 1 damage to that creature
+[-3]: Destroy target enchantment and put loyalty counters on Hornet equal to its mana value.
+special_text: As long as it's your turn, Hornet is a white Spider God creature with power and toughness each equal to the number of loyalty counters on her and she has indestructible. She's still a planeswalker.
+Prevent all damage that would be dealt to Hornet on your turn.
+[+1]: Hornet deals 1 damage to target Player or Planeswalker.
+[-3]: Destroy target enchantment and put loyalty counters on Hornet equal to its converted mana cost. => During your turn, as long as Hornet has one or more counters on her, she's a Spider Demigod creature with power and toughness each equal to the number of loyalty counters on her and has indestructible.
+[+1]: Put a Tack counter on target creature. Whenever a creature with a Tack counter is tapped, remove a Tack counter from it and Hornet deals 1 damage to that creature
+[-3]: Destroy target enchantment and put loyalty counters on Hornet equal to its mana value.
+
+Fourth Chorus
+cost: {5} => {7}
+rules_text: Vigilance, reach
+[i]Metalcraft[/i] — Other artifact creatures you control gain reach as long as you control three or more artifacts.
+Other artifact creatures you control get +1/+1 and gain vigilance. => Vigilance, reach
+[i]Metalcraft[/i] — Other artifact creatures you control have reach and vigilance as long as you control three or more artifacts.
+Other artifact creatures you control get +1/+1.
+
+Twelfth Architect
+rules_text: Other artifact creatures you control get +2/+2 and gain your of first strike or vigilance. You decide this when Twelfth Architect enters the battlefield.
+{T}, Sacrifice a non-token artifact: Reveal cards from the top of your library until you reveal an artifact creature card and put it onto the battlefield tapped. Then shuffle your library. => {0}: Other artifact creatures you control get +2/+2 and gain your choice of either first strike or vigilance until end of turn. Activate only once per turn.
+{T}, Sacrifice a non-token artifact: Reveal cards from the top of your library until you reveal an artifact creature card with mana value less than or equal to 1 plus the sacrificed artifact's mana value and put it onto the battlefield tapped. Then shuffle your library.
+
+Karmelita, Skarrsinger
+rules_text: Reach, haste
+Spectacle {1}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Other Insects you control get +2/+2 and gain haste. => Reach, haste
+Spectacle {1}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Other Insects you control get +2/+2 and have haste.
+
+Mitemother
+rules_text: Deathtouch, afflict 2 [i](Whenever this creature becomes blocked, defending player loses 2 life.)[/i]
+When Mitemother enters the battlefield, create a 1/1 black Insect creature token with deathtouch. => Deathtouch, afflict 2 [i](Whenever this creature becomes blocked, defending player loses 2 life.)[/i]
+When Mitemother enters, create a 1/1 black Insect creature token with deathtouch.
+
+Dreg Catcher
+rules_text: [i]Morbid[/i] — Dreg Catcher enters with a +1/+1 if a creature died this turn.
+As long as your devotion to white is 3 or greater, Dreg Catcher gains first strike [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => [i]Morbid[/i] — Dreg Catcher enters with a +1/+1 if a creature died this turn.
+As long as your devotion to white is 3 or greater, Dreg Catcher has first strike [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+
+Moorwing, Wild Warden
+rules_text: Flying, double strike, menace
+When Moorwing dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Flying, double strike, menace
+When Moorwing, Wild Warden dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+
+Wisp Lantern
+rules_text: At the beginning of your upkeep, create a 2/1 red Elemental creature token with trample, haste and “At the beginning of the endstep, sacrifice this creature.” => At the beginning of your upkeep, create a 2/1 red Elemental creature token with trample, haste and “At the beginning of the end step, sacrifice this creature.”
+
+Elemental
+rules_text: Trample, haste
+At the beginning of each endstep, sacrifice this creature. => Trample, haste
+At the beginning of each end step, sacrifice this creature.
+
+Burning Bug
+rules_text: [i]Morbid[/i] — If a creature died this turn, you may sacrifice Burning Bug as it enters the battlefield. If you do, create three 2/1 red Elemental creature tokens with trample, haste and “At the beginning of each endstep, sacrifice this creature.”
+Whenever Burning Bug attacks, create a 2/1 red Elemental creature token with trample, haste and “At the beginning of each endstep, sacrifice this creature.” that's tapped and attacking target opponent. => [i]Morbid[/i] — If a creature died this turn, you may sacrifice Burning Bug as it enters. If you do, create three 2/1 red Elemental creature tokens with trample, haste and “At the beginning of each end step, sacrifice this creature.”
+Whenever Burning Bug attacks, create a 2/1 red Elemental creature token with trample, haste and “At the beginning of each end step, sacrifice this creature.” that's tapped and attacking target opponent.
+
+Father Of The Flame
+rules_text: Defender
+At the beginning of your upkeep and whenever this creature is dealt damage, create a 2/1 red Elemental creature token with trample, haste and “At the beginning of each endstep, sacrifice this creature.”
+As long as your devotion to red is 7 or greater, Elementals you control get +3/+0 and gain first strike.
+{R},{T}: Father Of The Flame deals 1 damage to itself. Activate only as a sorcery. => Defender
+At the beginning of your upkeep and whenever this creature is dealt damage, create a 2/1 red Elemental creature token with trample, haste and “At the beginning of each end step, sacrifice this creature.”
+As long as your devotion to red is 7 or greater, Elementals you control get +3/+0 and have first strike.
+{R},{T}: Father Of The Flame deals 1 damage to itself. Activate only as a sorcery.
+
+Crawfather
+rules_text: Flying, hexproof
+Whenever an opponent commits a crime, Crawfather gets +1/+1 until end of turn.
+If an opponent commits a crime two times in one turn, Crawfather connives.
+At the beginning of your endstep, if you haven't committed a crime this turn, Crawfather connives. => Flying, hexproof
+Whenever an opponent commits a crime, Crawfather gets +1/+1 until end of turn.
+If an opponent commits a crime two times in one turn, Crawfather connives.
+At the beginning of your end step, if you haven't committed a crime this turn, Crawfather connives.
+
+Slubberlug Pen
+rules_text: Whenever a creature enters the battlefield or attacks, Slubberlug Pen deals 1 damage to it. => Whenever a creature enters or attacks, Slubberlug Pen deals 1 damage to it.
+
+Roachkeeper
+rules_text: Menace
+Whenever Roachkeeper enters the battlefield or attacks, you may tap and deal 1 damage to target creature. => Menace
+Whenever Roachkeeper enters or attacks, you may tap and deal 1 damage to target creature.
+
+Silken Mist
+cost: {3}{W}{W} => {4}{W}{W}
+rules_text: All other permanents gain shroud.
+Silken Mist can't gain shroud.
+At the beginning of each player's upkeep, they create a 1/1 white Illusion creature token with flying, shroud and “Whenever this creature blocks or is blocked by a legendary creature, sacrifice it.” => All other permanents have shroud.
+Silken Mist can't gain shroud.
+At the beginning of each player's upkeep, they create a 1/1 white Illusion creature token with flying, shroud and “Whenever this creature blocks or is blocked by a legendary creature, sacrifice it.” If that player controls more creatures than you, you also create one of those tokens.
+
+Stilkin
+rules_text: Prevent all noncombat damage that would be dealt to Stilkin.
+Whenever a creature an opponent controls enters the battlefield or attacks, Stilkin deals 1 damage to it. => Prevent all noncombat damage that would be dealt to Stilkin.
+Whenever a creature an opponent controls enters or attacks, Stilkin deals 1 damage to it.
+
+Stilkin Trapper
+rules_text: At the beginning of your upkeep and whenever a creature an opponent controls enters the battlefield, you may pay {1}. If you do, create a 0/1 colorless Trap artifact creature token with defender and “When this creature dies, it deals 1 damage to target creature.” => At the beginning of your upkeep and whenever a creature an opponent controls enters, you may pay {1}. If you do, create a 0/1 colorless Trap artifact creature token with defender and “When this creature dies, it deals 1 damage to target creature.”
+
+Bilehaven
+rules_text: This land enters tapped
+{T}: Add {G}.
+{2},{T}: Create a 0/1 colorless Trap artifact creature token with defender and “When this creature dies, it deals 1 damage to target creature.” => This land enters tapped
+{T}: Add {G}.
+{2},{T}: Create a 1/1 green Stilkin Insect creature token.
+
+Barnak
+rules_text: Defender, deathtouch
+Whenever Barnak is dealt combat damage, prevent all combat damage that would be dealt to it, exile it, and it becomes suspended with two time counters on it. => Defender, deathtouch
+Whenever Barnak is dealt combat damage, prevent all combat damage that would be dealt to it and exile it with two Time counters. It gains suspend until it leaves exile.
+
+Ductsucker
+rules_text: Defender, trample
+Whenever a creature enters the battlefield, Ductsucker loses defender until end of turn. => Defender, trample
+Whenever a creature enters, Ductsucker loses defender until end of turn.
+
+Splinterbark
+cost: {1}{W} => {2}{W}
+
+Phacia
+rules_text: Defender, Flying
+Whenever a creature an opponent controls enters the battlefield, put a -1/-1 counter on it.
+At the beginning of your endstep, remove a -1/-1 counter from target creature an opponent controls. => Defender, Flying
+Whenever a creature an opponent controls enters, put a -1/-1 counter on it.
+At the beginning of your end step, remove a -1/-1 counter from target creature an opponent controls.
+
+Pollenica
+rules_text: Defender
+Whenever a creature enters the battlefield, Pollenica deals 1 damage to it unless its controller pays 1 life. => Defender
+Whenever a creature enters, Pollenica deals 1 damage to it unless its controller pays 1 life.
+
+Seth, Shrine Guardian
+rules_text: Vigilance, provoke
+Seth gets +1/+1 for each other legendary creature you control. If you control 3 or more legendary creatures, he also gains first strike.
+Creatures can't leave exile.
+When Seth dies, exile him and return him to the battlefield transformed. => Vigilance, provoke
+Seth, Shrine Guardian gets +1/+1 for each other legendary creature you control. If you control 3 or more legendary creatures, he also gains first strike.
+Creatures can't leave exile.
+When Seth dies, exile him and return him to the battlefield transformed.
+
+Nyleth, Heart of Shellwood
+rules_text: Trample
+Other green creatures you control get +2/+2 and gain forestwalk.
+Green spells you cast cost {1} less to cast. => Trample
+Other green creatures you control get +2/+2 and have forestwalk. [i](This creature can't be blocked as long as defending player controls a forest.)[/i]
+Green spells you cast cost {1} less to cast.
+
+Pharlid Assault
+rules_text: Kicker {1} [i](You may pay an additional {1} as you cast this spell.)[/i]
+Create two 1/1 colorless Spider creature tokens. If Pharlid Assault was kicked, these tokens each enter with a reach and haste counter on them. => Kicker {1} [i](You may pay an additional {1} as you cast this spell.)[/i]
+Create two 1/1 colorless Spider creature tokens with haste. If Pharlid Assault was kicked, these tokens each enter with a reach counter on them.
+
+Shardillard
+cost: {2} => {2}{B}
+rules_text: Trample
+When Shardillard dies, create a Treasure token. => Flying, trample
+When Shardillard dies, create a Treasure token.
+
+Squirrm
+rules_text: Squirrm enters the battlefield with a +1/+1 counter on it.
+At the beginning of your upkeep, put a +1/+1 counter on Squirrm. Then if it has three or more +1/+1 counters on it, transform it. => Squirrm enters with a +1/+1 counter on it.
+At the beginning of your upkeep, put a +1/+1 counter on Squirrm. Then if it has three or more +1/+1 counters on it, you may transform it.
+
+Last Judge, Pilgrim's Test
+rules_text: Vigilance
+{1}{R}{R}: Last Judge gets +3/+0 and gains first strike until end of turn.
+When Last Judge dies, destroy target non-legendary creature. => Vigilance
+{1}{R}{R}: Last Judge, Pilgrim's Test gets +3/+0 and gains first strike until end of turn.
+When Last Judge dies, destroy target nonlegendary creature.
+
+Driznit
+rules_text: Flying
+When Driznit enters the battlefield it deals 1 damage to target creature. If that creature dies this turn, Driznit deals 1 damage to another target creature. => Flying
+{1},{T}: Driznit deals 1 damage to target creature. If that creature dies this turn, Driznit deals 1 damage to another target creature.
+
+Driznarga
+rules_text: Flying
+When Driznarga enters the battlefield it deals 2 damage to target creature. If that creature dies this turn, Driznarga deals 2 damage to another target creature. => Flying
+{2},{T}: Driznarga deals 2 damage to target creature. If that creature dies this turn, Driznarga deals 2 damage to another target creature.
+
+Gorge's Memory
+rules_text: Memory
+Create four 0/1 colorless Karaka Insect creature tokens with “This creature can't attack or block.” => Memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+Create four 0/1 colorless Karaka Insect creature tokens with “This creature can't attack or block.”
+
+Yumama
+rules_text: Trample, memory
+When Yumama dies, exile it and create two 0/1 colorless Karaka Insect creature tokens with “This token can't attack or block.” => Trample, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+When Yumama dies, exile it and create two 0/1 colorless Karaka Insect creature tokens with “This token can't attack or block.”
+
+Karaka
+rules_text: Vigilance, memory => Vigilance, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+
+Yago
+rules_text: Flying, memory => Flying, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+
+Karak Gor
+rules_text: Trample, memory => Trample, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+
+Alita
+rules_text: Reach, haste, memory
+When Alita enters the battlefield, it deals 1 damage to target creature. => Reach, haste, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+When Alita enters, it deals 1 damage to target creature.
+
+Corrcrust Karaka
+rules_text: Flying, trample, memory
+Whenever Corrcrust Karaka deals combat damage to a creature, put a -1/-1 counter on that creature. => Flying, trample, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+Whenever Corrcrust Karaka deals combat damage to a creature, put a -1/-1 counter on that creature.
+
+Khann, Crust King
+rules_text: Reach
+Karaka you control get +3/+2.
+Khann can't be blocked as long as defending player controls four or more lands. => Reach
+Karaka you control get +3/+2.
+Khann, Crust King can't be blocked as long as defending player controls at least five lands.
+
+Drapelord
+cost: {4} => {3}{U}
+rules_text: Flying, hexproof
+When Drapelord enters the battlefield, flip two coins. Then create X 1/1 colorless Insect creatures tokens with flying and hexproof, where X is the number of heads you got plus one. => Flying, hexproof
+When Drapelord enters, flip two coins. Then create X 1/1 colorless Insect creatures tokens with flying and hexproof, where X is the number of heads you got plus one.
+
+Drapemite
+cost: {2} => {R}{G}
+
+Automated Confessional
+rules_text: When Automated Confessional enters the battlefield, create two 1/1 black Insect Worker creature tokens if your devotion to white is 4 or greater.
+{2}{B}: Create a 1/1 black Insect Worker creature token.
+{T}: Put a +1/+1 counter on target Insect Token you control. Activate this ability only if your devotion to white is 4 or greater.
+Tokens created by Automated Confessional each enter with your choice of a first strike, flying, menace, or vigilance counter. => When Automated Confessional enters, create two 1/1 black Insect Worker creature tokens.
+{2}{B}: Create a 1/1 black Insect Worker creature token.
+{T}: Put a +1/+1 counter on target Insect Token you control. Activate this ability only if your devotion to white is 4 or greater.
+Tokens created by Automated Confessional each enter with your choice of a first strike, flying, menace, or vigilance counter.
+
+Haunted Choir
+rules_text: When Haunted Choir enters the battlefield, create a 1/1 white Insect Citizen creature token which enters with a +1/+0 counter on it.
+Whenever the first non-creature spell is cast each turn, create a 1/1 white Insect Citizen creature token.
+Tokens created by Haunted Choir each enter with your choice of a first strike, flying, lifelink, or vigilance counter. => When Haunted Choir enters, create a 1/1 white Insect Citizen creature token which enters with a +1/+1 counter on it.
+Whenever a player casts the first noncreature spell each turn, create a 1/1 white Insect Citizen creature token.
+Tokens created by Haunted Choir each enter with your choice of a first strike, flying, lifelink, or vigilance counter.
+
+Choristor
+rules_text: Prowess
+As long as your devotion to white is 3 or less, Choristor loses prowess. => As long as your devotion to white is 3 or greater, Choristor has prowess.
+
+Reed
+cost: {1}{W} => {2}{W}
+rules_text: Flying, prowess
+{1},{T}: Reed deals 1 damage to target creature. Activate this ability only if your devotion to white is 3 or greater. => Flying, prowess
+{1},{T}: Reed deals 1 damage to target attacking or blocking creature. Activate only if your devotion to white is 3 or greater.
+pt: 2/1 => 1/2
+
+Grand Reed
+rules_text: First strike, prowess
+Whenever Grand Reed attacks, if your devotion to white is 4 or greater, you may tap target non-legendary creature. => First strike, prowess
+Whenever Grand Reed attacks, if your devotion to white is 4 or greater, you may tap target non-legendary creature defending player controls with power less than or equal to Grand Reed's power.
+
+Choir Clapper
+rules_text: {W}{W}: Choir Clapper gets +3/+0 and gains trample until end of turn. Activate this ability only once per turn and if your devotion to white is 4 or greater. => {W}{W}: Choir Clapper gets +3/+0 and gains trample until end of turn. Activate this ability only once per turn and if your devotion to white is 6 or greater.
+
+Clawmaiden
+rules_text: When Clawmaiden enters the battlefield, tap target land an opponent controls.
+{1}{W}: Tap target creature an opponent controls. Clawmaiden gains flying if tapped creature had Flying. The same is true for first strike, double strike, deathtouch, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance. Clawmaiden gets +2/+0 until end of turn. Activate this ability only once per turn and if your devotion to white is 5 or greater. => When Clawmaiden enters, tap target creature an opponent controls. Put a Stun counter on it.
+{1}{W}: Tap target creature an opponent controls. Clawmaiden gains flying until end of turn if tapped creature had Flying. The same is true for first strike, double strike, deathtouch, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance. Clawmaiden gets +2/+0 until end of turn. Activate this ability only once per turn and if your devotion to white is 5 or greater.
+pt: 2/2 => 3/4
+
+Memoria
+rules_text: Flying
+When Memoria enters the battlefield, add {E}{E}{E}.
+{E}: Memoria gains +X/+0 until end of turn, where X is the number of different colors among permanents you control. Activate this ability only once per turn. => Flying
+When Memoria enters, add {E}{E}{E}.
+{E}: Memoria gains +X/+0 until end of turn, where X is the number of different colors among permanents you control. Activate only once per turn.
+pt: 1/2 => 2/2
+
+Minister
+cost: {2}{W} => {3}{W}
+rules_text: Flying, double strike, prowess
+As long as your devotion to white is 4 or less, Minister loses double strike. => Flying, prowess
+As long as your devotion to white is 5 or greater, Minister has double strike.
+
+Maestro
+rules_text: Flying
+When Maestro enters the battlefield, create two 1/1 white Conductor Construct artifact creature tokens with flying.
+At the beginning of your endstep, create X 1/1 white Conductor Construct artifact creature tokens with flying, where X is two minus the number of Conductors you control.
+When Maestro dies, sacrifice all Conductors you control. => Flying
+When Maestro enters, create two 1/1 white Conductor Construct artifact creature tokens with flying.
+At the beginning of your end step, create X 1/1 white Conductor Construct artifact creature tokens with flying, where X is two minus the number of Conductors you control.
+When Maestro dies, sacrifice all Conductors you control.
+
+Second Sentinel
+cost: {3} => {4}
+
+Dregwheel
+rules_text: When Dregwheel enters the battlefield, draw a card and discard a card.
+Bound {1}{W} => When Dregwheel enters, draw a card and discard a card.
+Bound {1}{W}
+
+Citadel Surgeon
+rules_text: {2}{W},{T}: Exile target non-Zombie creature from your graveyard and create a token copy of it except its a white Zombie in addition to its other colors and types and gains Decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => {2}{W},{T}: Exile target non-Zombie creature from your graveyard and create a token copy of it except its a white Zombie in addition to its other colors and types and has Decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Haunting Puppetry
+rules_text: Creatures in your graveyard gain Bound {X}{W}, where X is that creature's converted mana cost => Creatures in your graveyard have Bound {X}{W}, where X is that creature's mana value
+
+Cogwork Defense System
+rules_text: Create two 1/1 colorless Construct artifact tokens. You may pay one or both of these additional costs —
++{1}: Those tokens each enter with a flying counter on them.
++{1}{W}: Those tokens each enter with a first strike counter on them. => Create two 1/1 colorless Construct artifact tokens. You may pay one or both of these additional costs —
++{2}: Those tokens each enter with a flying counter on them.
++{1}{W}: Those tokens each enter with a first strike counter on them.
+
+Cogwork Hauler
+rules_text: When Cogwork Hauler dies, it deals 3 damage to target creature and you lose 1 life.
+{R}: Sacrifice Cogwork Hauler. => When Cogwork Hauler dies, discard a card. If you do, it deals 3 damage to any target.
+{R}: Sacrifice Cogwork Hauler.
+
+Cogwork Cleanser
+rules_text: {1},{T}: Remove up to two counters from among permanents you control.
+{3},{T}: Remove all counters from target permanent an opponent controls. => {3},{T}: Remove all counters from target permanent.
+pt: 1/2 => 2/2
+
+Cogwork Defender
+
+Cogwork Clapper
+cost: {4} => {6}
+rules_text: Trample, Menace
+{3},{T}: Target player takes 1 damage and discards a card. => Trample, Menace
+{3},{T}: Target player takes 1 damage and mills a card.
+
+Cogbroken Dancer
+rules_text: This creature deals combat damage after other creatures.
+When this creature dies, create a treasure token. => Last Strike [i](This creature deals combat damage after creatures without last strike.)[/i]
+When this creature dies, create a treasure token.
+
+Lampbearer
+
+Scrollreader
+
+Vaultkeeper
+
+Trobbio, Jubilant Thespian
+
+Penitence
+
+Guardfly
+
+Wardenfly
+cost: {2}{W} => {3}{W}
+rules_text: When Wardenfly enters the battlefield, you may exile target non-legendary creature.
+When Wardenfly leaves the battlefield or attacks, return exiled creature to the battlefield under its owner's control. Then that creature's controller discards a card. => When Wardenfly enters, you may exile target non-legendary creature.
+When Wardenfly leaves the battlefield or attacks, return exiled creature to the battlefield under its owner's control tapped with a Stun counter on it.
+
+Broodmother Of The Slab
+rules_text: Whenever this creature attacks, put a +1/+1 counter on target Insect you control and create a 1/1 black Insect creature token with flying that's tapped and attacking target opponent.
+Whenever an opponent exiles a permanent, draw a card. => Whenever this creature attacks, put a +1/+1 counter on target Insect you control and create a 1/1 white Insect creature token with flying that's tapped and attacking target opponent.
+Whenever an opponent exiles a permanent, draw a card.
+
+The Slab
+type: Artifact Land => Land
+rules_text: When The Slab enters the battlefield, you may exile a non-legendary creature. If you pay {1} target creature may be legendary. When The Slab leaves the battlefield, return all cards exiled by it to the battlefield under their owner's control. => {T}: Add {C}
+{3}{W},{T}: Exile Target creature, then return that creature to the battlefield at the beginning of the next end step.
+
+Driftlin
+cost: {1} => {2}
+pt: 0/1 => 0/2
+
+Mnemonid
+rules_text: Defender, flying
+When Mnemonid dies, deal 1 damage to target creature and exile Mnemonid with one time counter on it.
+Suspend 1—{2} => Defender, flying
+When Mnemonid dies, deal 1 damage to target creature and exile Mnemonid with one time counter on it.
+Suspend 1—{3}
+
+Mnemonord
+rules_text: Defender, flying
+When Mnemonord dies, deal 2 damage to target creature and exile Mnemonord with one time counter on it.
+Suspend 1—{3} => Defender, flying
+When Mnemonord dies, deal 2 damage to target creature and exile Mnemonord with one time counter on it.
+Suspend 1—{4}
+
+Fayforn, Queen Of The Mount
+cost: {3} => {6}
+rules_text: Flying
+[i]Landfall[/i] — Whenever a land you control enters, add {C}.
+Creatures you control with flying gain protection from instants.
+{1}{S}: Target creature gains flying until end of turn. => Flying
+[i]Landfall[/i] — Whenever a land you control enters, add {C}.
+Creatures you control with flying have protection from instants.
+{1}{S}: Target creature gains flying until end of turn.
+
+Mount Fay
+rules_text: {T}: Add {C}{C}
+At the beginning of your upkeep, lose 2 life unless you pay {R}. => {T}: Add {C}.
+{S},{T}: Add {C}{C}{C}. Mount Fay deals 4 damage to you.
+
+Servitor Ignim
+rules_text: Whenever you counter an instant or sorcery, you may pay {2}. If you do, untap target creature you control.
+{T}: Counter target instant or sorcery. => Whenever you counter an instant or sorcery, you may pay {2}. If you do, untap another target creature you control.
+{2}{U}{U},{T}: Counter target instant or sorcery unless its controller pays {2}.
+
+Servitor Boran
+rules_text: Whenever you cast an instant or sorcery, you may pay {2}. If you do, deal damage to target creature equal to that spell's converted mana cost. => Whenever you cast an instant or sorcery, you may pay {2}. If you do, Servitor Boran deals damage to target creature equal to that spell's mana value.
+
+Plasmium Blight
+rules_text: Flash
+Enchant creature
+Enchanted creature gets +X/+Y and gains lifelink, where X is the number of Growth counters on enchanted creature and Y is that number plus 4.
+At the beginning of your upkeep, put one Growth counter on enchanted creature. Then if it has 4 or more Growth counters on it, sacrifice it and attach Plasmium Blight to target creature you control. => Flash
+Enchant creature
+Enchanted creature gets +X/+Y and has lifelink, where X is the number of Growth counters on enchanted creature and Y is that number plus 4.
+At the beginning of your upkeep, put one Growth counter on enchanted creature. Then if it has 4 or more Growth counters on it, sacrifice it and attach Plasmium Blight to target creature you control.
+
+Lifeseed
+
+Plasmid
+
+Plasmidas
+rules_text: As an additional cost to cast this spell, sacrifice an Insect.
+Lifelink
+When Plasmid enters the battlefield or dies, you may deal 1 damage to target player and search your library for a card named Lifeseed, reveal it, and put it into your hand. Then shuffle. => As an additional cost to cast this spell, sacrifice an Insect.
+Lifelink
+When Plasmid enters or dies, you may deal 1 damage to target player and search your library for a card named Lifeseed, reveal it, and put it into your hand. Then shuffle.
+
+Zango, Plasmified Assistant
+rules_text: Whenever a creature enters the battlefield under your control, put a +1/+1 counter on it and Zango, Plasmified Assistant, then lose 1 life.
+Creatures you control with a +1/+1 counter gain lifelink. => Whenever a creature enters under your control, put a +1/+1 counter on it and Zango, Plasmified Assistant, then lose 1 life.
+Creatures you control with +1/+1 counters have lifelink.
+
+Pendragor
+rules_text: Defender, flying, memory
+When Pendragor enters the battlefield, draw a card. => Defender, flying, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+When Pendragor enters, draw a card.
+
+Nuphar
+rules_text: Memory
+Enchant land
+Whenever enchanted land is tapped, Nuphar deals 1 damage to target creature. => Memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+Enchant land
+Whenever enchanted land is tapped, Nuphar deals 1 damage to target creature.
+
+Cloverstag
+rules_text: Memory
+When Cloverstag enters the battlefield, create a 1/2 green Insect Beast creature token, search your library for a basic land, reveal it, put it into your hand, then shuffle. => Memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+When Cloverstag enters, create a 1/2 green Insect Beast creature token, search your library for a basic land, reveal it, put it into your hand, then shuffle.
+
+Palestag, Greatest Hunt
+rules_text: As an additional cost to cast this spell, put a -1/-1 counter on a legendary creature you control.
+Trample
+[i]Landfall[/i] — Whenever a land you control enters the battlefield, Palestag, Greatest Hunt deals 1 damage to target player.
+Palestag's power and toughness are each equal to the number of lands you control. => As an additional cost to cast this spell, put a -1/-1 counter on a legendary creature you control.
+Trample
+[i]Landfall[/i] — Whenever a land you control enters, Palestag, Greatest Hunt deals 1 damage to target player.
+Palestag's power and toughness are each equal to the number of lands you control.
+
+Kindanir
+rules_text: Flying, first strike, memory
+At the beginning of the next endstep, put a +1/+1 counter on Kindanir. => Flying, first strike, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+At the beginning of the next end step, put a +1/+1 counter on Kindanir.
+
+Verdanir
+rules_text: First strike, haste, memory
+Protection from instants
+Whenever an opponent casts an instant spell, untap Verdanir. => First strike, haste, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+Protection from instants
+Whenever an opponent casts an instant spell, untap Verdanir.
+
+Escalion
+rules_text: Flying, haste, memory
+Whenever Escalion deals combat damage to a player, it deals 1 damage to target creature that player controls. => Flying, haste, memory [i](This spell costs {1} less to cast as long as you control a legendary creature.)[/i]
+Whenever Escalion deals combat damage to a player, it deals 1 damage to target creature that player controls.
+
+Green Prince, Last Verdanian
+
+Shadow Creeper
+
+Gloomsac
+
+Gargant Gloom
+
+Voidweave
+rules_text: Devoid [i](This card has no color.)[/i]
+Enchant creature
+Enchanted creature gets +3/+3 and loses all activated abilities.
+Whenever enchanted creature attacks, it deals 2 damage to target player and you lose 1 life. => Devoid [i](This card has no color.)[/i]
+Enchant creature
+You control enchanted creature.
+Enchanted creature gets +3/+3 and loses all activated abilities.
+Whenever enchanted creature attacks, it deals 2 damage to target player and you lose 1 life.
+
+Summoned Savior
+
+Bell Eater
+
+Huge Flea
+
+Shakra, Wielding Rings
+cost: {1}{R}{G} => {2}{R}{G}
+rules_text: First strike, reach, haste
+[i]Landfall[/i] — Whenever a land you control enters, Shakra explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+{2}: Reveal a land card from your hand and place it onto the battlefield tapped. => First strike, reach, haste
+[i]Landfall[/i] — Whenever a land you control enters, Shakra, Wielding Rings explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+[i]Poshanka! [/i]— Whenever Shakra deals combat damage, you may pay {G}. If you do, put a land from your hand onto the battlefield tapped.
+pt: 2/2 => 3/2
+
+Garmond, Sworn To Fight
+rules_text: When Garmond enters the battlefield, create Zaza, a legendary 1/1 colorless Insect creature with haste.
+Tap target untapped creature named Zaza you control: Garmond gets +2/+1 and gains reach and haste until end of turn. Activate only as a sorcery.
+At the beginning of your endstep, if you don't control a creature named Zaza, you may pay {B}{B}. If you do, exile Garmond and return him to the battlefield transformed. => When Garmond, Sworn To Fight enters, create Zaza, a legendary 1/1 colorless Insect creature with haste. [i](Each deals damage equal to its power to the other.)[/i]
+Tap target untapped creature named Zaza you control: Garmond gets +2/+1 and gains reach and haste until end of turn. Activate only as a sorcery.
+At the beginning of your end step, if you don't control a creature named Zaza, you may pay {B}{B}. If you do, exile Garmond and return him to the battlefield transformed.
+
+Zaza
+
+Spider
+rules_text:  => Haste
+
+Pinstress, Last Of Her Sect
+rules_text: When Pinstress, Last Of Her Sect enters and at the beginning of your upkeep, choose one of flying, first strike, menace, and provoke. Pinstress gains that keyword until your next upkeep.
+{2}: Put a +1/+0, menace, or provoke counter on target creature you control. => When Pinstress, Last Of Her Sect enters and at the beginning of your upkeep, choose one of flying, first strike, menace, and provoke. Pinstress gains that keyword until your next turn.
+{2},{T}: Put a +1/+1, menace, or provoke counter on target creature you control.
+
+Widow, Devoted Weaver
+
+First Sinner
+cost: {2}{RW} => {1}{R}{RW}
+rules_text: {2},{T}: Create two white enchantment tokens named Rune.
+Sacrifice a Rune: Deal 1 damage to any target.
+Sacrifice three Runes: Deal 4 damage to any target and add {W}. => {2},{T}: Create two white Rune enchantment tokens
+Sacrifice a Rune: Deal 1 damage to any target. Activate only as a sorcery.
+Sacrifice three Runes: Deal 4 damage to any target and add {W}. Activate only as a sorcery.
+
+First Sinner
+cost: {2}{RW} => {1}{R}{RW}
+rules_text: {2},{T}: Create two white enchantment tokens named Rune.
+Sacrifice a Rune: Deal 1 damage to any target.
+Sacrifice three Runes: Deal 4 damage to any target and add {W}. => {2},{T}: Create two white Rune enchantment tokens
+Sacrifice a Rune: Deal 1 damage to any target. Activate only as a sorcery.
+Sacrifice three Runes: Deal 4 damage to any target and add {W}. Activate only as a sorcery.
+
+Rune
+
+Phantom Of The Citadel
+cost: {2}{W} => {1}{U}{R}
+rules_text: Whenever an opponent casts an instant or sorcery, Phantom gains shroud until end of turn.
+Phantom can't gain shroud from other sources.
+Remove shroud from Phantom: Copy target instant or sorcery and make the copy target something you control; or deal 2 damage to any target. => Whenever any player casts an instant or sorcery spell, Phantom Of The Citadel gains shroud until end of turn.
+Phantom Of The Citadel can't gain shroud from other sources.
+Phantom Of The Citadel loses shroud: Choose one —
+• Copy target instant or sorcery and make the copy target a permanent you control.
+• Phantom Of The Citadel deals 2 damage to any target.
+
+Lace, The Silk-Spun Child
+rules_text: At the beginning of your upkeep, sacrifice Lace, The Silk-Spun Child unless you pay {1} or exile a creature you control.
+Lace gets +1/+0 for each creature or enchantment you control in exile.
+{2}: Counter target spell or ability that would put a creature you control into exile, then exile Lace and return her to the battlefield transformed. => At the beginning of your upkeep, sacrifice Lace, The Silk-Spun Child unless you pay {1} or exile a creature you control.
+Lace gets +1/+0 for each creature or enchantment you control in exile.
+{2},{T}: Counter target spell or ability that would put a creature you control into exile. If you do, exile Lace and return her to the battlefield transformed.
+
+Soul Snare
+cost: {W} => {1}{B}
+
+Scrounge, Relic Seeker
+rules_text: Whenever you cast a historic spell, create a Treasure token. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Sacrifice a Treasure token: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Whenever you cast a historic spell, create a Treasure token. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Sacrifice an artifact: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 1/2 => 1/1
+
+Sherma, Purest Pilgrim
+rules_text: Insects you control get +1/+1.
+{1}{W},{T}: You gain life equal to your devotion to white. Activate only if you have the city's blessing
+{W}{W}: Exile Sherma, then return him to the battlefield transformed. Activate only as a sorcery. => Insects you control get +1/+1.
+{1}{W},{T}: You gain life equal to your devotion to white. Activate only if you have the city's blessing
+{W}{W}: Exile Sherma, Purest Pilgrim, then return him to the battlefield transformed. Activate only as a sorcery.
+
+Rite Of Rebirth
+cost: {2}{B}{G} => {4}{B}{G}
+
+Eva, Form Too Frail
+rules_text: Creatures you control get +1/+1 for each flying counter on them. Repeat this for first strike, double strike, deathtouch, exalted, haste, hexproof, indestructible, lifelink, menace, reach, shadow, trample, and vigilance counters.
+{2},{T}: Put a first strike or trample counter on target creature you control that already has a counter on it. => Creatures you control get +1/+1 for each flying counter on them. Repeat this for first strike, double strike, deathtouch, exalted, haste, hexproof, indestructible, lifelink, menace, reach, shadow, trample, and vigilance counters.
+{2},{T}: Put a first strike or vigilance counter on target creature you control that already has a counter on it.
+
+Nuu, The Curious Child
+
+Styx, Devoted Tender
+rules_text: At the beginning of your upkeep, create a Silkeater token. It's a colorless artifact token with “{T}, Sacrifice this artifact: Exile a creature card from your graveyard, then gain {W} equal to its converted mana cost.” => At the beginning of your upkeep, create a Silkeater token. [i](It's a colorless artifact token with “{T}, Sacrifice this artifact: Exile a creature card from your graveyard, then add {W} equal to its mana value.”)[/i]
+
+Silkeater
+rules_text: {T}, Sacrifice this artifact: Exile a creature card from your graveyard, then gain {W} equal to its converted mana cost. => {T}, Sacrifice this artifact: Exile a creature card from your graveyard, then gain {W} equal to its mana value.
+
+Magma Bell
+
+Silkshot
+rules_text: When Silkshot enters the battlefield, choose an additional cost —
++{1}: Equipped creature has double strike.
++{W}: Equipped creature gets +3/+0 and has trample.
++{R}: Equipped creature gets +2/+0 and has first strike.
+Equip {1} => When Silkshot enters, choose an additional cost —
++{R}: Put a Weaver counter on Silkshot
++{RW}: Put an Architect counter on Silkshot
++{G}: Put a Forge counter on Silkshot.
+If Silkshot has a Weaver counter on it, equipped creature gets +2/+0 and has first strike. Repeat this for Architect with double strike and Forge with +3/+0 and trample.
+Equip {1}
+
+Flea Brew
+
+Pollip Pouch
+rules_text: Non-combat damage dealt by equipped creature is dealt in the form of -1/-1 counters to creatures and Poison counters to players.
+Equip {1} => Non-combat damage dealt by equipped creature is dealt in the form of -1/-1 counters to creatures.
+Equip {1}
+
+Multibinder
+
+Injector Band
+
+Snitch Pick
+rules_text: Equipped creature gets +1/+0 and has reach and “Whenever this creature deals combat damage, pray 1.”
+Equip {1} => Equipped creature gets +1/+0 and has reach and “Whenever this creature deals combat damage to a player, pray 1.”
+Equip {1}
+
+Volt Filament
+
+Wreath Of Purity
+rules_text: {T}: Remove all -1/-1 counters from equipped creature.
+Equip {1} => Equipped creature has hexproof and can't have counters put on it.
+Equip {1}
+
+Wanderer's Compass
+rules_text: At the beginning of your endstep, if equipped creature didn't attack this turn, it explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Equip {1} => At the beginning of your end step, if equipped creature didn't attack this turn, it explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+Equip {1}
+
+Longclaw
+cost: {1} => {1}{R}
+rules_text: Equipped creature has reach.
+Equip {0} => Equipped creature gets +1/+0 and has first strike and haste.
+Equip {0}. Activate only once each turn.
+
+Barbed Bracelet
+rules_text: Equipped creature gets +4/+0 and gains “Whenever this creature is dealt damage, it takes twice that amount of damage instead.”
+Equip {2} => Equipped creature gets +4/+0 and has “Whenever this creature is dealt damage, it takes twice that amount of damage instead.”
+Equip {2}
+
+Silkspeed Anklets
+rules_text: Flash
+When Silkspeed Anklets enters the battlefield, you may cast target creature card from your hand as though it had flash, then attach this to it.
+Equipped creature has first strike and haste.
+Equip {1} => Flash
+When Silkspeed Anklets enters, you may cast target creature card from your hand as though it had flash, then attach this to it.
+Equipped creature has first strike and haste.
+Equip {1}
+
+False Bench
+
+Dead Bug's Purse
+
+Bellshrine
+cost: {4} => {3}
+rules_text: Tap a creature you control,{T}: Put a Charge counter on Bellshrine.
+{2}, Sacrifice Bellshrine: Draw X cards and target opponent discards X cards, where X is the number of Charge counters on Bellshrine. => {T}, Tap a creature you control: Put a Charge counter on Bellshrine.
+{3}, Sacrifice Bellshrine: Draw X cards and target opponent mills X cards, where X is the number of Charge counters on Bellshrine.
+
+Grand Gate
+rules_text: Whenever you put one or more counter on an artifact, put a Charge counter on Grand Gate.
+{T}: Add three mana in any combination of colours. Activate only if Grand Gate has 5 or more Charge counters on it. => Whenever you put one or more counter on an artifact, put a Charge counter on Grand Gate. This triggers only once each turn.
+{T}: Add three mana of any one color. Activate only if Grand Gate has 5 or more Charge counters on it.
+
+Fayforn, Queen Of The Mount
+cost: {3} => {6}
+rules_text: Flying
+[i]Landfall[/i] — Whenever a land you control enters, add {C}.
+Creatures you control with flying gain protection from instants.
+{1}{S}: Target creature gains flying until end of turn. => Flying
+[i]Landfall[/i] — Whenever a land you control enters, add {C}.
+Creatures you control with flying have protection from instants.
+{1}{S}: Target creature gains flying until end of turn.
+
+Wrest From The Void
+rules_text: Return target exiled creature you own to your hand. => Return target exiled creature you own to your hand. Exile Wrest From The Void.
+
+Way Of The Bells
+rules_text: 
+Insects you control have haste.
+You may cast Insects as though they had flash.
+You may reveal an Insect card from your hand and place it onto the battlefield. It gains haste. => 
+Insects you control gain haste until end of turn.
+You may cast Insect spells as though they had flash until your next turn.
+You may reveal an Insect card from your hand and place it onto the battlefield. It gains haste until end of turn.
+special_text: 
+Insects you control have haste.
+You may cast Insects as though they had flash.
+You may reveal an Insect card from your hand and place it onto the battlefield. It gains haste. => 
+Insects you control gain haste until end of turn.
+You may cast Insect spells as though they had flash until your next turn.
+You may reveal an Insect card from your hand and place it onto the battlefield. It gains haste until end of turn.
+
+Insect
+
+Pale Offer
+cost: {2}{W} => {1}{U}{B}
+
+Hunter Crest
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Creatures you control with first strike get +2/+0.
+{1}{R}: Level 2
+Insects you control have “{2}: This creature gains first strike until end of turn.”
+{3}{R}: Level 3
+At the beginning of your endstep, if you didn't lose any life this turn, put a +1/+1 counter on up to two target creatures you control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Creatures you control with first strike get +2/+0.
+{1}{R}: Level 2
+Insects you control have “{2}: This creature gains first strike until end of turn.”
+{3}{R}: Level 3
+At the beginning of your end step, if you didn't lose any life this turn, put a +1/+1 counter on up to two target creatures you control.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Creatures you control with first strike get +2/+0.
+{1}{R}: Level 2
+Insects you control have “{2}: This creature gains first strike until end of turn.”
+{3}{R}: Level 3
+At the beginning of your endstep, if you didn't lose any life this turn, put a +1/+1 counter on up to two target creatures you control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Creatures you control with first strike get +2/+0.
+{1}{R}: Level 2
+Insects you control have “{2}: This creature gains first strike until end of turn.”
+{3}{R}: Level 3
+At the beginning of your end step, if you didn't lose any life this turn, put a +1/+1 counter on up to two target creatures you control.
+
+Reaper Crest
+
+Wanderer Crest
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the beginning of your upkeep, target creature you control may explore. If they do, skip your draw phase.
+{1}{G}: Level 2
+Whenever a creature you control explores, gain 1 life.
+{3}{G}: Level 3
+Whenever a creature you control explores, they explore one more time. This ability triggers only once per phase. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the beginning of your upkeep, you may make target creature you control explore.
+{1}{G}: Level 2
+Whenever a creature you control explores, gain 1 life.
+{3}{G}: Level 3
+Whenever a creature you control explores, they explore an additional time.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the beginning of your upkeep, target creature you control may explore. If they do, skip your draw phase.
+{1}{G}: Level 2
+Whenever a creature you control explores, gain 1 life.
+{3}{G}: Level 3
+Whenever a creature you control explores, they explore one more time. This ability triggers only once per phase. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the beginning of your upkeep, you may make target creature you control explore.
+{1}{G}: Level 2
+Whenever a creature you control explores, gain 1 life.
+{3}{G}: Level 3
+Whenever a creature you control explores, they explore an additional time.
+
+Beast Crest
+
+Witch Crest
+
+Architect Crest
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Artifact spells you cast cost {1} less to cast.
+{2}: Level 2
+Whenever an artifact you control leaves the battlefield, gain 2 life.
+{2}: Level 3
+Whenever you cast an artifact spell, you may look at the top X cards of your library, where X is its converted mana cost. You may reveal an artifact card with converted mana cost X or less from among them and put it into your hand. Then put the rest to the bottom of your library in a random order. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Artifact spells you cast cost {1} less to cast.
+{2}: Level 2
+Whenever an artifact you control leaves the battlefield, gain 2 life.
+{2}: Level 3
+Whenever you cast an artifact spell, you may look at the top X cards of your library, where X is its mana value. You may reveal an artifact card with mana value X or less from among them and put it into your hand. Then put the rest to the bottom of your library in a random order.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Artifact spells you cast cost {1} less to cast.
+{2}: Level 2
+Whenever an artifact you control leaves the battlefield, gain 2 life.
+{2}: Level 3
+Whenever you cast an artifact spell, you may look at the top X cards of your library, where X is its converted mana cost. You may reveal an artifact card with converted mana cost X or less from among them and put it into your hand. Then put the rest to the bottom of your library in a random order. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Artifact spells you cast cost {1} less to cast.
+{2}: Level 2
+Whenever an artifact you control leaves the battlefield, gain 2 life.
+{2}: Level 3
+Whenever you cast an artifact spell, you may look at the top X cards of your library, where X is its mana value. You may reveal an artifact card with mana value X or less from among them and put it into your hand. Then put the rest to the bottom of your library in a random order.
+
+Shaman Crest
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Instant and sorcery spells you cast cost {1} less to cast.
+{2}{U}: Level 2
+Instant and sorcery spells you cast with converted mana cost 1 have deathtouch.
+{3}{U}{U}: Level 3
+Instant and sorcery spells you cast have splice onto sorcery {X}{X}{U}, where X is that spell's converted mana cost minus one. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Instant and sorcery spells you cast cost {1} less to cast.
+{2}{U}: Level 2
+Instant and sorcery spells you cast with mana value 1 have deathtouch.
+{3}{U}{U}: Level 3
+Instant and sorcery spells you cast have splice onto sorcery {X}{X}{U}, where X is that spell's mana value minus one.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Instant and sorcery spells you cast cost {1} less to cast.
+{2}{U}: Level 2
+Instant and sorcery spells you cast with converted mana cost 1 have deathtouch.
+{3}{U}{U}: Level 3
+Instant and sorcery spells you cast have splice onto sorcery {X}{X}{U}, where X is that spell's converted mana cost minus one. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Instant and sorcery spells you cast cost {1} less to cast.
+{2}{U}: Level 2
+Instant and sorcery spells you cast with mana value 1 have deathtouch.
+{3}{U}{U}: Level 3
+Instant and sorcery spells you cast have splice onto sorcery {X}{X}{U}, where X is that spell's mana value minus one.
+
+Vesticrest
+
+Magnetite Dice
+rules_text: Whenever equipped creature attacks or blocks, roll a six sided die. If the result is a 6, it gets +6/+0 and gains first strike and indestructible until end of turn.
+Equip {1} => Whenever equipped creature blocks or is blocked, roll a six-sided die. If the result is a 6, it gets +6/+0 and gains first strike and indestructible until end of turn.
+Equip {1}
+
+Magnetite Brooch
+
+Couriers Tipp And Pill
+
+Vine
+
+Insect
+
+Harvest For Silk
+rules_text: Exile a creature card from your graveyard, then add {W} equal to its converted mana cost. => Exile a creature card from your graveyard, then add {W} equal to its mana value.
+
+Gated Gauntlet
+cost: {X}{R}{R} => {X}{X}{R}
+
+Cogwork Choir
+
+Arcane Egg
+
+Hornet's Hijacking
+cost: {2}{W} => {1}{W}
+rules_text: Counter target aura spell and create a copy of it under your control. You may choose new targets for the copy. => Copy target Aura or Equipment spell, then counter it. You may choose new targets for the copy.
+
+Hornet's Binding
+rules_text: Destroy target enchantment. Put a number of +1/+1 counters on target creature equal to the enchantment's converted mana cost. => Destroy target enchantment. Put a number of +1/+1 counters on target creature equal to the enchantment's mana value.
+
+Hornet's Multitudes
+cost: {2}{W} => {3}{W}
+
+Groal's Orders
+
+Weaver Effigy
+rules_text: {1}, Sacrifice Weaver Effigy: Draw a card. If you control a Spider, draw another card. => When Weaver Effigy enters the battlefield, create a 1/1 colorless Spider creature token with reach.
+{2}, Sacrifice Weaver Effigy: Draw a card.
+
+Yarnaby, Secluded Surgeon
+
+Treasure
+
+Food
+
+Cogwork Dancers
+type: Legendary Artifact Creature — Construct => Legendary Artifact Creature — Program Construct
+rules_text: Double strike
+At the beginning of every upkeep, put a Tempo counter on Cogwork Dancers.
+As long as the number of Tempo counters on Cogwork Dancers is equal to a multiple of three minus two, this creature gets +2/-2.
+{1}: Put a Tempo counter on Cogwork Dancers.
+When Cogwork Dancers dies, create Cogbroken Dancer, a legendary 3/3 Construct artifact creature token with “This creature deals combat damage after other creatures.” and “When this token dies, create a treasure token.” => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
